@@ -1,5 +1,4 @@
 ## Hello, I am Wesley a Computer Engineering student at UIUC interested in software engineering, applied AI, and full-stack development. I enjoy building practical, user-facing products and have experience with full-stack development, OCR and RAG-based document pipelines, browser automation, and real-time systems using Python, TypeScript, React, Next.js, FastAPI, and SQL.
- 
 My projects have included AI-powered document processing for mortgage workflows, a cross-platform dashboard that unifies academic assignments, and a real-time queuing system for campus recreation. I am always excited by opportunities where I can solve challenging technical problems, while growing my skills as an engineer.
 
 ## About my Projects
