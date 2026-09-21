@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hello, I am Wesley a Computer Engineering student at UIUC interested in software engineering, applied AI, and full-stack development. I enjoy building practical, user-facing products and have experience with full-stack development, OCR and RAG-based document pipelines, browser automation, and real-time systems using Python, TypeScript, React, Next.js, FastAPI, and SQL.
+ 
+My projects have included AI-powered document processing for mortgage workflows, a cross-platform dashboard that unifies academic assignments, and a real-time queuing system for campus recreation. I am always excited by opportunities where I can solve challenging technical problems, while growing my skills as an engineer.
 
-## About Me
-
-I build full-stack tools that solve problems from my own day-to-day as a student at the University of Illinois Urbana-Champaign — course tracking, study habits, and campus logistics.
-
+## About my Projects
 ### [Prioriton](https://github.com/wzhao308/Prioriton)
 A student time and grade management app. Syncs assignments and grades from Canvas, Gradescope, and PrairieLearn, tracks study time per class with a start/stop timer, visualizes grade and study trends on an analytics dashboard, and uses an LLM to turn a week of that data into personalized, grounded study recommendations. Built with FastAPI, SQLModel, React, TypeScript, and the Anthropic API.
 
